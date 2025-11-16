@@ -1,0 +1,13 @@
+[
+  {
+    "id": "prod_1763298231576",
+    "name": "Royal Neckless",
+    "description": "good product",
+    "price": 599,
+    "category": "neckless",
+    "images": [],
+    "variants": [],
+    "status": "active",
+    "createdAt": "2025-11-16T13:03:51.576Z"
+  }
+]

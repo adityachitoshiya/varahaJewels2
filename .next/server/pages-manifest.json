@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/checkout": "pages/checkout.js",
+  "/product/[id]": "pages/product/[id].js",
+  "/api/create-checkout-session": "pages/api/create-checkout-session.js"
+}
