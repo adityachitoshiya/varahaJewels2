@@ -32,10 +32,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/checkout.js"
     ],
-    "/product/[id]": [
+    "/coming-soon": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/product/[id].js"
+      "static/chunks/pages/coming-soon.js"
     ]
   },
   "ampFirstPages": []
